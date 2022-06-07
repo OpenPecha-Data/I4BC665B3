@@ -1,0 +1,27 @@
+id: I4BC665B3
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T14:45:59+00:00'
+last_modified: '2022-06-07T13:39:41.549302+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG25464
+  title: རི་མོར་བལྟས་ནས་རྒྱལ་དར་ངོས་འཛིན་པ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    FB55:
+      image_group_id: I1KG25466
+      title: ''
+      total_pages: 66
+      order: 1
+      base_file: FB55.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
